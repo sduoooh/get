@@ -2,7 +2,7 @@
 
 ## what is this？
 
- As we all know, articles on Zhihu often disappear for no reason. To prevent this from happening, I plan to save them properly.
+ As we all know, articles on Mohu often disappear for no reason. To prevent this from happening, I plan to save them properly.
  This is this trying.
 
  ## What it can do so？
